@@ -3,7 +3,7 @@ import sys
 import json
 from collections import defaultdict
 
-def export_predictions_from_label_studio(ls, project_id, output_file, train_set_result=False ,url="http://localhost:8080"):
+def export_predictions_from_label_studio(ls, project_id, output_file="prediction_analysis.json", url="http://localhost:8080"):
     category_data = defaultdict(lambda: {"count": 0, "indices": []})
     
     total_tasks = 0
@@ -14,13 +14,9 @@ def export_predictions_from_label_studio(ls, project_id, output_file, train_set_
     
     for task in ls.tasks.list(project=project_id):
         total_tasks += 1
-
-        check_condition = task.predictions
-        if train_set_result == "1":
-            check_condition = task.annotations
         
         # Check if task has predictions
-        if check_condition:
+        if task.predictions:
             tasks_with_predictions += 1
             commit_index = task.data.get('commit_index', None)
             
@@ -28,7 +24,7 @@ def export_predictions_from_label_studio(ls, project_id, output_file, train_set_
                 print(f"Warning: Task {task.id} has no commit_index in data")
                 continue
             
-            for prediction in check_condition:
+            for prediction in task.predictions:
                 if 'result' in prediction and len(prediction['result']) > 0:
                     result = prediction['result'][0]
                     
@@ -57,27 +53,17 @@ def export_predictions_from_label_studio(ls, project_id, output_file, train_set_
 
 
 if __name__ == "__main__":
-    train_set_result = "0" 
-
     if len(sys.argv) != 3 and len(sys.argv) != 4:
         print("Not correctly input key")
         sys.exit(1)
-    elif len(sys.argv) == 4:
-        train_set_result = sys.argv[3]
 
     key = sys.argv[1]
     project_id = sys.argv[2]
-    output_file= "predict_label_collection.json"  
-
-    if train_set_result == "1":
-        output_file = "manually_label_collection.json"
 
     ls = LabelStudio(base_url="http://localhost:8080", api_key=key)
     
     export_predictions_from_label_studio(
         ls=ls, 
         project_id=project_id,
-        output_file=output_file,
-        train_set_result=train_set_result
+        output_file="bug_predictions_analysis_textModel.json"
     )
-   

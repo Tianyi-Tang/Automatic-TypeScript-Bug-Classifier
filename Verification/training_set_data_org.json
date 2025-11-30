@@ -25,7 +25,7 @@
       ]
     },
     "Tooling / Configuration Issue": {
-      "count": 11,
+      "count": 10,
       "indices": [
         "6610621",
         "4fd6d6d",
@@ -34,7 +34,6 @@
         "35c7f35",
         "33b4f09",
         "bd56cc6",
-        "0267d99",
         "1a47191",
         "3ce311a",
         "a803b4d"
@@ -70,8 +69,7 @@
         "f5d4397",
         "1cf4775",
         "972da58",
-        "5c1240d",
-        "2fd3f99"
+        "5c1240d"
       ]
     },
     "Performance Issue": {
@@ -117,12 +115,11 @@
         "aa8f5d5",
         "eec2a69",
         "01745a2",
-        "4193fe2",
-        "ca22d38"
+        "4193fe2"
       ]
     },
     "Runtime Exception": {
-      "count": 7,
+      "count": 8,
       "indices": [
         "d5095fe",
         "8b22162",
@@ -130,6 +127,7 @@
         "5428a73",
         "d81832c",
         "4865f2e",
+        "0267d99",
         "edec141"
       ]
     },
