@@ -1,0 +1,167 @@
+{
+  "commit_index": "88de661",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/88de6613bda2d4f133410b05c5c2a8d2f1ba838f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "fix",
+      "execution",
+      "pruning",
+      "query"
+    ],
+    "description": [
+      "fix",
+      "core",
+      "execution",
+      "pruning",
+      "delete",
+      "query",
+      "use",
+      "operator",
+      "fix",
+      "core",
+      "prune",
+      "execution",
+      "chunk",
+      "avoid",
+      "sqlite",
+      "error",
+      "expression",
+      "tree",
+      "large",
+      "reduce",
+      "memory",
+      "usage",
+      "execution",
+      "pruning"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/WorkflowExecuteAdditionalData.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1c86a59e62a6355c5b31b4b95a727be609dae05c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "fix",
+        "execution",
+        "pruning",
+        "query"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "useoroperator",
+                "looking",
+                "execution",
+                "based",
+                "age",
+                "idsdelete",
+                "execution",
+                "chunk",
+                "avoid",
+                "sqlite",
+                "error",
+                "1000",
+                "execution",
+                "delete.reduce",
+                "memory",
+                "usage",
+                "pruning",
+                "operation",
+                "significantly",
+                "larger",
+                "databasesfixes"
+              ],
+              "author": "netroy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "got",
+        "blank",
+        "page",
+        "appear",
+        "login",
+        "page"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "mzayn",
+          "content": [
+            "using",
+            "subdomain",
+            "cf",
+            "use",
+            "security",
+            "feature",
+            "cf",
+            "firewall",
+            "main/subdomain",
+            "need",
+            "use",
+            "cache",
+            "cf",
+            "one",
+            "want",
+            "ask",
+            "want",
+            "delete",
+            "execution",
+            "history",
+            "problem",
+            "total",
+            "list",
+            "29802",
+            "im",
+            "getting",
+            "error",
+            "delete",
+            "problem",
+            "deleting",
+            "execution",
+            "sqlite_error",
+            "expression",
+            "tree",
+            "large",
+            "maximum",
+            "depth",
+            "1000",
+            "delete",
+            "1000",
+            "want",
+            "delete",
+            "history",
+            "one",
+            "suggestion",
+            "make",
+            "option",
+            "month/weekly/day",
+            "setting",
+            "automatic",
+            "delete",
+            "execution",
+            "history"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,104 @@
+{
+  "summary": {
+    "total_tasks": 780,
+    "tasks_with_predictions": 36
+  },
+  "categories": {
+    "Missing Cases": {
+      "count": 3,
+      "indices": [
+        "a65a047",
+        "0c361fa",
+        "8adcfbf"
+      ]
+    },
+    "Tooling / Configuration Issue": {
+      "count": 3,
+      "indices": [
+        "bd56cc6",
+        "1a47191",
+        "a803b4d"
+      ]
+    },
+    "API Misuse": {
+      "count": 3,
+      "indices": [
+        "052799e",
+        "ba165bc",
+        "870fa9e"
+      ]
+    },
+    "Asynchrony / Event Handling Bug": {
+      "count": 3,
+      "indices": [
+        "7177e3a",
+        "b9842e3",
+        "5c1240d"
+      ]
+    },
+    "Performance Issue": {
+      "count": 3,
+      "indices": [
+        "3d85d93",
+        "c93aa60",
+        "00cbf22"
+      ]
+    },
+    "Exception Handling": {
+      "count": 3,
+      "indices": [
+        "86a690b",
+        "cf6aa1f",
+        "531cb87"
+      ]
+    },
+    "Type Error": {
+      "count": 3,
+      "indices": [
+        "ebe94f9",
+        "4193fe2",
+        "ca22d38"
+      ]
+    },
+    "Runtime Exception": {
+      "count": 3,
+      "indices": [
+        "d5095fe",
+        "8b22162",
+        "edec141"
+      ]
+    },
+    "UI Behavior Bug": {
+      "count": 9,
+      "indices": [
+        "ffc087a",
+        "98359dd",
+        "8bc3310"
+      ]
+    },
+    "Missing Features": {
+      "count": 3,
+      "indices": [
+        "b5055e0",
+        "15f90e0",
+        "1408baf"
+      ]
+    },
+    "Logic Error": {
+      "count": 3,
+      "indices": [
+        "2fde1ce",
+        "81b6eda",
+        "abeb408"
+      ]
+    },
+    "Test Fault": {
+      "count": 3,
+      "indices": [
+        "ba32fa8",
+        "7fc79d7",
+        "5c5c06a"
+      ]
+    }
+  }
+}

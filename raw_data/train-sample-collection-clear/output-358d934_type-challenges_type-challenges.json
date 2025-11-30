@@ -1,0 +1,92 @@
+{
+  "commit_index": "358d934",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/358d93401195a95d229e11868f2c3de0e7f74ae1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "test",
+      "medium",
+      "replace"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/116-medium-replace/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "59ab9d7494d5c86f4efa5533364e4c3dbdbb83b9"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "test",
+        "case",
+        "116",
+        "medium",
+        "replace"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "stringfromnot",
+                "exist",
+                "given",
+                "string"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "replace"
+      ],
+      "labels": [
+        "new-challenge",
+        "ts4.1"
+      ],
+      "comments": [
+        {
+          "author": "antfu",
+          "content": [
+            "implement",
+            "replace",
+            "string",
+            "given",
+            "string",
+            "template",
+            "template",
+            "challenger",
+            "start",
+            "coding",
+            "basically",
+            "need",
+            "change",
+            "name",
+            "generic/function",
+            "leave",
+            "implementation",
+            "provide",
+            "test",
+            "case",
+            "challenge",
+            "use"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

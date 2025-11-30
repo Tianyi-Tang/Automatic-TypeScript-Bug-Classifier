@@ -1,0 +1,167 @@
+{
+  "commit_index": "8bc3310",
+  "commit_url": "https://github.com/testing-library/user-event/commit/8bc331036cf7a2d3f93fb9e5faca0f8dcfa3c20e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "reset",
+      "ui",
+      "selection",
+      "programmatic",
+      "value",
+      "change"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "src/document/interceptor.ts",
+      "src/document/value.ts",
+      "tests/document/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f5049c45c1d0d7917cc85ebd02e9c8e2761549a8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "reset",
+        "ui",
+        "selection",
+        "programmatic",
+        "value",
+        "change"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "reset",
+                "ui",
+                "selection",
+                "updating",
+                "value",
+                "programmatically",
+                "close",
+                "replaced",
+                "clearing",
+                "uiselection",
+                "updating",
+                "maintain",
+                "input",
+                "without",
+                "sanitize",
+                "focusoffset",
+                "need",
+                "applied",
+                "change",
+                "value"
+              ],
+              "author": "ph-fritsche"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "userevent.type",
+        "issue",
+        "using",
+        "alt",
+        "enter",
+        "/alt"
+      ],
+      "labels": [
+        "bug",
+        "released"
+      ],
+      "comments": [
+        {
+          "author": "xDisfigure",
+          "content": [
+            "reproduction",
+            "prerequisite",
+            "textarea",
+            "handle",
+            "new",
+            "line",
+            "holding",
+            "alt",
+            "pressing",
+            "enter",
+            "expected",
+            "behavior",
+            "test",
+            "second",
+            "scenario",
+            "alt",
+            "enter",
+            "would",
+            "expect",
+            "see",
+            "new",
+            "line",
+            "added",
+            "textarea",
+            "value",
+            "result",
+            "im",
+            "first",
+            "sentence",
+            "new",
+            "line",
+            "actual",
+            "behavior",
+            "make",
+            "newline",
+            "inside",
+            "textarea",
+            "able",
+            "manually",
+            "hold",
+            "shift",
+            "press",
+            "enter",
+            "hold",
+            "alt",
+            "press",
+            "enter",
+            "run",
+            "test",
+            "suite",
+            "see",
+            "test",
+            "asserting",
+            "second",
+            "scenario",
+            "alt+enter",
+            "fail",
+            "new",
+            "line",
+            "appended",
+            "im",
+            "getting",
+            "following",
+            "text",
+            "textarea",
+            "value",
+            "im",
+            "first",
+            "sentence.i",
+            "new",
+            "line",
+            "user-event"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

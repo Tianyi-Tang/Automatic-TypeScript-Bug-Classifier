@@ -1,0 +1,202 @@
+{
+  "commit_index": "1408baf",
+  "commit_url": "https://github.com/angular/angular/commit/1408baff453e636da05838fa17c6e4abd86c4b72",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "http",
+      "add",
+      "missing",
+      "timeout",
+      "transfercache",
+      "option",
+      "httpclie"
+    ],
+    "description": [
+      "timeout",
+      "option",
+      "implemented",
+      "different",
+      "http",
+      "backends",
+      "option",
+      "actually",
+      "passed",
+      "backends",
+      "transfercache",
+      "also",
+      "missing",
+      "one",
+      "signature",
+      "commit",
+      "add",
+      "option",
+      "httpclient"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "goldens/public-api/common/http/index.api.md",
+      "packages/common/http/src/client.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d64dd27a02630b631bc9890d7292d4683493cb65"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "http",
+        "add",
+        "missingtimeoutandtransfercacheoptions",
+        "tohttpclient"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "thetimeoutoption",
+                "implemented",
+                "different",
+                "http",
+                "backends",
+                "option",
+                "actually",
+                "passed",
+                "backends.transfercacheis",
+                "also",
+                "missing",
+                "one",
+                "signature",
+                "commit",
+                "add",
+                "option",
+                "tohttpclientpr",
+                "checklistplease",
+                "check"
+              ],
+              "author": "wartab"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "httpclient",
+        "20.1",
+        "throw",
+        "ts2769",
+        "using",
+        "documented",
+        "'timeout",
+        "option"
+      ],
+      "labels": [
+        "state: has PR",
+        "area: common"
+      ],
+      "comments": [
+        {
+          "author": "michael-small",
+          "content": [
+            "description",
+            "angular",
+            "20.1",
+            "new",
+            "timeout",
+            "option",
+            "introduced",
+            "httpclient",
+            "request",
+            "documented",
+            "official",
+            "guide",
+            "20.1",
+            "release",
+            "note",
+            "however",
+            "using",
+            "option",
+            "currently",
+            "result",
+            "typescript",
+            "error",
+            "overload",
+            "match",
+            "call",
+            "last",
+            "overload",
+            "gave",
+            "following",
+            "error",
+            "object",
+            "literal",
+            "may",
+            "specify",
+            "known",
+            "property",
+            "'timeout",
+            "exist",
+            "type",
+            "typescript",
+            "type",
+            "definition",
+            "updated",
+            "reflect",
+            "exception",
+            "error",
+            "overload",
+            "match",
+            "call",
+            "last",
+            "overload",
+            "gave",
+            "following",
+            "error",
+            "object",
+            "literal",
+            "may",
+            "specify",
+            "known",
+            "property",
+            "'timeout",
+            "exist",
+            "type"
+          ]
+        },
+        {
+          "author": "wartab",
+          "content": [
+            "missed",
+            "adding",
+            "actual",
+            "httpclient",
+            "class",
+            "guess",
+            "test",
+            "somehow",
+            "n't",
+            "cover",
+            "making",
+            "pr",
+            "however",
+            "'m",
+            "noticing",
+            "option",
+            "also",
+            "sometimes",
+            "missing",
+            "signature"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

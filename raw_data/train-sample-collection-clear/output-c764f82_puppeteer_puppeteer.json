@@ -1,0 +1,144 @@
+{
+  "commit_index": "c764f82",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/c764f82c7435bdc10e6a9007892ab8dba111d21c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "webdriver",
+      "use",
+      "correct",
+      "unit",
+      "format",
+      "pdf",
+      "option",
+      "13516"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "docs/api/index.md",
+      "docs/api/puppeteer.paperformat.md",
+      "packages/puppeteer-core/src/common/PDFOptions.ts",
+      "packages/puppeteer-core/src/common/util.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "018e6860c909569f3120841d859ced89769301ba"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "use",
+        "correct",
+        "paper",
+        "format",
+        "unit",
+        "13516"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "format",
+                "set",
+                "n't",
+                "convert",
+                "internal",
+                "value",
+                "inch",
+                "expected",
+                "measuring",
+                "system",
+                "firefox",
+                "webdriver",
+                "bidi",
+                "expected",
+                "unit",
+                "centimeter",
+                "providing",
+                "value",
+                "inches.now",
+                "supported",
+                "paper",
+                "format",
+                "defined",
+                "size",
+                "centimeter",
+                "inch",
+                "pdf",
+                "option",
+                "parsed",
+                "returned",
+                "size",
+                "selected",
+                "format",
+                "provided",
+                "unit"
+              ],
+              "author": "Lightning00Blade"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "pdf",
+        "page",
+        "format",
+        "seemingly",
+        "defined",
+        "centimetre"
+      ],
+      "labels": [
+        "bidi",
+        "confirmed",
+        "bug",
+        "P2",
+        "good first issue"
+      ],
+      "comments": [
+        {
+          "author": "Lightning00Blade",
+          "content": [
+            "format",
+            "set",
+            "n't",
+            "convert",
+            "internal",
+            "value",
+            "expected",
+            "measuring",
+            "system",
+            "firefox",
+            "webdriver",
+            "bidi",
+            "expected",
+            "centimeter",
+            "providing",
+            "value",
+            "inch",
+            "issue",
+            "best",
+            "way",
+            "separate",
+            "definition",
+            "cm",
+            "format",
+            "way",
+            "better",
+            "precision"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

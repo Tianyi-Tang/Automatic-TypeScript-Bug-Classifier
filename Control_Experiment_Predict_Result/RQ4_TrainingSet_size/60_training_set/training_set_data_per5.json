@@ -1,0 +1,128 @@
+{
+  "summary": {
+    "total_tasks": 780,
+    "tasks_with_predictions": 60
+  },
+  "categories": {
+    "Missing Cases": {
+      "count": 5,
+      "indices": [
+        "a65a047",
+        "0c361fa",
+        "a9e6cd1",
+        "8adcfbf",
+        "aa5b1c0"
+      ]
+    },
+    "Tooling / Configuration Issue": {
+      "count": 5,
+      "indices": [
+        "6610621",
+        "bd56cc6",
+        "1a47191",
+        "3ce311a",
+        "a803b4d"
+      ]
+    },
+    "API Misuse": {
+      "count": 5,
+      "indices": [
+        "052799e",
+        "ba165bc",
+        "5c5631f",
+        "d4db93c",
+        "870fa9e"
+      ]
+    },
+    "Asynchrony / Event Handling Bug": {
+      "count": 5,
+      "indices": [
+        "e347a3c",
+        "7177e3a",
+        "b9842e3",
+        "5c1240d",
+        "2fd3f99"
+      ]
+    },
+    "Performance Issue": {
+      "count": 5,
+      "indices": [
+        "3d85d93",
+        "c93aa60",
+        "5bba36c",
+        "9b70861",
+        "00cbf22"
+      ]
+    },
+    "Exception Handling": {
+      "count": 5,
+      "indices": [
+        "ff1c861",
+        "86a690b",
+        "cf6aa1f",
+        "531cb87",
+        "62cce2e"
+      ]
+    },
+    "Type Error": {
+      "count": 5,
+      "indices": [
+        "300280d",
+        "ebe94f9",
+        "8743ad0",
+        "4193fe2",
+        "ca22d38"
+      ]
+    },
+    "Runtime Exception": {
+      "count": 5,
+      "indices": [
+        "d5095fe",
+        "8b22162",
+        "ba497ee",
+        "4865f2e",
+        "edec141"
+      ]
+    },
+    "UI Behavior Bug": {
+      "count": 5,
+      "indices": [
+        "ffc087a",
+        "34147c3",
+        "98359dd",
+        "b3cd62d",
+        "8bc3310"
+      ]
+    },
+    "Missing Features": {
+      "count": 5,
+      "indices": [
+        "8ff26ad",
+        "b5055e0",
+        "15f90e0",
+        "1408baf",
+        "d1b07cc"
+      ]
+    },
+    "Logic Error": {
+      "count": 5,
+      "indices": [
+        "5e0629c",
+        "2fde1ce",
+        "c919c68",
+        "81b6eda",
+        "abeb408"
+      ]
+    },
+    "Test Fault": {
+      "count": 5,
+      "indices": [
+        "a62ed27",
+        "ba32fa8",
+        "7fc79d7",
+        "5c5c06a",
+        "358d934"
+      ]
+    }
+  }
+}

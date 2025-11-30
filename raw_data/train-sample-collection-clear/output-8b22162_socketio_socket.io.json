@@ -1,0 +1,109 @@
+{
+  "commit_index": "8b22162",
+  "commit_url": "https://github.com/socketio/socket.io/commit/8b2216290330b174c9e67be32765bec0c74769f9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "uws",
+      "prevent",
+      "crash",
+      "using",
+      "middlewares"
+    ],
+    "description": [
+      "class",
+      "used",
+      "accumulate",
+      "response",
+      "header",
+      "expose",
+      "exact",
+      "api",
+      "wrapped",
+      "type",
+      "could",
+      "lead",
+      "following",
+      "error",
+      "rare",
+      "case",
+      "typeerror",
+      "read",
+      "property",
+      "undefined",
+      "reading",
+      "'end"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "lib/userver.ts",
+      "test/middlewares.js"
+    ],
+    "changed_files_content": [],
+    "parent": "93957828be1252c83275b56f0c7c0bd145a0ceb9"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "engine.io",
+        "read",
+        "property",
+        "undefined",
+        "reading",
+        "'end",
+        "error"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "azju",
+          "content": [
+            "describe",
+            "bug",
+            "'re",
+            "sometimes",
+            "seeing",
+            "rare",
+            "error",
+            "using",
+            "uwebsockets.js",
+            "uws",
+            "reproduce",
+            "happens",
+            "occasionally",
+            "ca",
+            "n't",
+            "reproduce",
+            "locally",
+            "socket.io",
+            "server",
+            "version",
+            "4.6.0",
+            "expected",
+            "behavior",
+            "see",
+            "error",
+            "error",
+            "get",
+            "handled",
+            "gracefully",
+            "read",
+            "property",
+            "undefined",
+            "reading",
+            "'end",
+            "read",
+            "property",
+            "undefined",
+            "reading",
+            "'end"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

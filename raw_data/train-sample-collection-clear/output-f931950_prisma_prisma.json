@@ -1,0 +1,76 @@
+{
+  "commit_index": "f931950",
+  "commit_url": "https://github.com/prisma/prisma/commit/f9319507ba5b05c713e2a0d65abd09f5966fea90",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "client",
+      "add",
+      "panic",
+      "handler",
+      "query",
+      "compiler"
+    ],
+    "description": [
+      "fix",
+      "panic",
+      "hook",
+      "rust",
+      "side",
+      "additionally",
+      "crashing",
+      "trying",
+      "call",
+      "undefined",
+      "function"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/client/src/runtime/core/engines/client/ClientEngine.ts",
+      "packages/internals/src/wasm.ts",
+      "packages/internals/typings/global.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "857442989aea16e59108bb81b26ee62fc95f36a8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "client",
+        "add",
+        "panic",
+        "handler",
+        "query",
+        "compiler"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "panic",
+                "hook",
+                "rust",
+                "side",
+                "additionally",
+                "crashing",
+                "trying",
+                "call",
+                "undefined",
+                "function"
+              ],
+              "author": "aqrln"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

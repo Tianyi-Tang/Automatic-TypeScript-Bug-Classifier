@@ -1,0 +1,126 @@
+{
+  "commit_index": "5bba36c",
+  "commit_url": "https://github.com/ReactiveX/rxjs/commit/5bba36c6dde5b1b4b7e434104e716b233e5f402c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "subscriber",
+      "n't",
+      "leak",
+      "destination"
+    ],
+    "description": [
+      "test",
+      "rearrange",
+      "sharereplay",
+      "test",
+      "slightly",
+      "test",
+      "add",
+      "failing",
+      "subscriber",
+      "destination",
+      "leak",
+      "test",
+      "fix",
+      "null",
+      "destination",
+      "unsubscribe",
+      "fix",
+      "capture",
+      "destination",
+      "onnext"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "spec/Subscriber-spec.ts",
+      "spec/operators/shareReplay-spec.ts",
+      "src/internal/Subscriber.ts",
+      "src/internal/operators/OperatorSubscriber.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f3b2f05bf8fc80ca20a2a5125a55868b3412e998"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "subscriber",
+        "n't",
+        "leak",
+        "destination"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "pr",
+                "add",
+                "failing",
+                "test",
+                "show",
+                "subscription",
+                "subscriber",
+                "returned",
+                "leak",
+                "destination",
+                "observer",
+                "callbacks.the",
+                "subscriber",
+                "unsubscribeto",
+                "null",
+                "super.unsubscribeis",
+                "change",
+                "broke",
+                "three",
+                "operator",
+                "-bufferwhenwas",
+                "one",
+                "unsubscription",
+                "effected",
+                "withinonnextand",
+                "error",
+                "thrown",
+                "withinonnext",
+                "unsubscription",
+                "'d",
+                "caught",
+                "operatorsubscriberand",
+                "attempt",
+                "would",
+                "made",
+                "callthis.destination.error",
+                "butthis.destinationwould",
+                "benull.rather",
+                "capture",
+                "destination",
+                "try/catcha",
+                "complete",
+                "andonerror",
+                "used",
+                "thedestinationthat",
+                "passed",
+                "operatorsubscriber",
+                "afaict",
+                "sure",
+                "subscriber",
+                "operatorsubscriberis",
+                "internal",
+                "impementation",
+                "detail"
+              ],
+              "author": "benlesh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

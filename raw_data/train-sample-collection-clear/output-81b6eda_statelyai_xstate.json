@@ -1,0 +1,58 @@
+{
+  "commit_index": "81b6eda",
+  "commit_url": "https://github.com/statelyai/xstate/commit/81b6edafd6386d822c3b12c9e12e025ab4f843ad",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "issue",
+      "action",
+      "initial",
+      "transition",
+      "called",
+      "many",
+      "time"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/moody-needles-melt.md",
+      "packages/core/src/stateUtils.ts",
+      "packages/core/test/actions.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "04cad53e07da2beb37520fb3c9e165fbf7b5bf86"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "issue",
+        "action",
+        "initial",
+        "transition",
+        "called",
+        "many",
+        "time"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "alway",
+                "avoid",
+                "reentrancy"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

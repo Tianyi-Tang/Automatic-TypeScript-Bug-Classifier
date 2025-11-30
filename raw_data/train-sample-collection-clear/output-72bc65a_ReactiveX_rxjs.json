@@ -1,0 +1,131 @@
+{
+  "commit_index": "72bc65a",
+  "commit_url": "https://github.com/ReactiveX/rxjs/commit/72bc65ac3dcf8c658171597dd24628209fa552e7",
+  "commit": {
+    "commit_message": [
+      "test",
+      "audittime",
+      "fix",
+      "imperfect",
+      "test"
+    ],
+    "description": [
+      "test",
+      "audittime",
+      "adjust",
+      "imperfect",
+      "test",
+      "case",
+      "test",
+      "audittime",
+      "refactor",
+      "fix",
+      "test"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "spec/operators/auditTime-spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "43d17311a521234375146029aa5c4709cb221344"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "test",
+        "audittime",
+        "fix",
+        "imperfect",
+        "test"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "fix",
+                "one",
+                "imperfectaudittimetests",
+                "could",
+                "mislead",
+                "theaudittimeactual",
+                "behavior"
+              ],
+              "author": "benlesh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "audit",
+        "end",
+        "audit",
+        "period",
+        "emit",
+        "source",
+        "completes"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "benlesh",
+          "content": [
+            "would",
+            "expect",
+            "audit",
+            "source",
+            "close",
+            "duration",
+            "end",
+            "get",
+            "last",
+            "value",
+            "captured",
+            "whatever",
+            "reason",
+            "decided",
+            "age",
+            "ago",
+            "n't",
+            "imagine",
+            "source",
+            "completes",
+            "think",
+            "either",
+            "seen",
+            "value",
+            "wait",
+            "duration",
+            "end",
+            "emit",
+            "value",
+            "complete",
+            "result",
+            "immediately",
+            "emit",
+            "last",
+            "value",
+            "saw",
+            "complete",
+            "result",
+            "inclined",
+            "behavior",
+            "throttle"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

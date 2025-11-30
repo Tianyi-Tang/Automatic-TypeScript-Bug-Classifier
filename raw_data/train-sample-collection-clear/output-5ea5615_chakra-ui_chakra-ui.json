@@ -1,0 +1,74 @@
+{
+  "commit_index": "5ea5615",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/5ea56150a62c7abdbd11fff38d7f80bee2e000f5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "input",
+      "flushed",
+      "input",
+      "variant",
+      "error",
+      "focus",
+      "style"
+    ],
+    "description": [
+      "feat",
+      "input",
+      "add",
+      "error",
+      "color",
+      "handling",
+      "invalid",
+      "input",
+      "theme",
+      "recipe"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/compositions/src/examples/input-with-focus-error-color.tsx",
+      "packages/react/src/theme/recipes/input.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c1405dc9ef46b1ac149c6743ff5f8b4dbea88b95"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "input",
+        "flushed",
+        "input",
+        "variant",
+        "error",
+        "focus",
+        "style",
+        "10057"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "focus",
+                "state",
+                "flushed",
+                "variant",
+                "input",
+                "error",
+                "state"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

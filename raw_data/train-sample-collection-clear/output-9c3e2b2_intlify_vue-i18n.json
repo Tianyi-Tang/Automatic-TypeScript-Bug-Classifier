@@ -1,0 +1,86 @@
+{
+  "commit_index": "9c3e2b2",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/9c3e2b2704ff0e574340c8d1809a41d38522f24f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "example",
+      "remove",
+      "vite-ignore",
+      "magic",
+      "comment"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "examples/lazy-loading/vite/src/i18n.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "205dc129c218eed7f65815c9c669e58ab08dbdb0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "example",
+        "remove",
+        "vite-ignoremagic",
+        "comment"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "resolve"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "lazy-loading",
+        "example",
+        "work",
+        "vite",
+        "4.4.9/4.4.10"
+      ],
+      "labels": [
+        "🔨 p3-minor-bug"
+      ],
+      "comments": [
+        {
+          "author": "KANekT",
+          "content": [
+            "reporting",
+            "bug",
+            "use",
+            "vite",
+            "4.4.9/4.4.10",
+            "prod",
+            "build",
+            "load",
+            "lang",
+            "file",
+            "work",
+            "dev",
+            "mode",
+            "vite",
+            "4.4.8",
+            "work",
+            "prod"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

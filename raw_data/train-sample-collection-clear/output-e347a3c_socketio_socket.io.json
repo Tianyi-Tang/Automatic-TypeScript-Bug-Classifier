@@ -1,0 +1,101 @@
+{
+  "commit_index": "e347a3c",
+  "commit_url": "https://github.com/socketio/socket.io/commit/e347a3c24e773cf59f589110989fd56703a9057c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "sio",
+      "correctly",
+      "await",
+      "async",
+      "close",
+      "adapter"
+    ],
+    "description": null,
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/socket.io/lib/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b5ccfd4838b901c7c4efd1e5e07a0bd083620619"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "correctly",
+        "await",
+        "async",
+        "close",
+        "adapter"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "behaviorthe",
+                "close",
+                "server",
+                "await",
+                "async",
+                "close",
+                "operation",
+                "adapter",
+                "like",
+                "mongoadapter",
+                "leading",
+                "error",
+                "due",
+                "premature",
+                "closing",
+                "underlying",
+                "connection.new",
+                "behaviorthe",
+                "close",
+                "awaits",
+                "async",
+                "operation",
+                "adapter",
+                "different",
+                "namespaces",
+                "allows",
+                "sure",
+                "e.g",
+                "mongo",
+                "connection",
+                "safely",
+                "disposed",
+                "of.other",
+                "information",
+                "e.g",
+                "related",
+                "issue",
+                "'ve",
+                "chose",
+                "avoid",
+                "disruptive",
+                "since",
+                "current",
+                "synchronous",
+                "implementation",
+                "already",
+                "disregard",
+                "error",
+                "closing",
+                "adapter",
+                "might",
+                "raise"
+              ],
+              "author": "darrachequesne"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

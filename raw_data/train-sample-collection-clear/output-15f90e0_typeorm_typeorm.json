@@ -1,0 +1,130 @@
+{
+  "commit_index": "15f90e0",
+  "commit_url": "https://github.com/typeorm/typeorm/commit/15f90e0be897f5bd2f4dac1d1e8d24f539a842a8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "support",
+      "async",
+      "import",
+      "datasource",
+      "cli"
+    ],
+    "description": [
+      "fix",
+      "await",
+      "datasource",
+      "export",
+      "file",
+      "support",
+      "async",
+      "loading",
+      "fix",
+      "prettier",
+      "error",
+      "updated",
+      "code",
+      "style"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/commands/CommandUtils.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "bb33cd0f23d566c0d87fcb57e42bd611761cc106"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "support",
+                "async",
+                "import",
+                "datasource",
+                "cli"
+              ],
+              "author": "pleerock"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "cli",
+        "support",
+        "async",
+        "datasource"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "anton-pavlov-deel",
+          "content": [
+            "issue",
+            "description",
+            "starting",
+            "0.3.0",
+            "version",
+            "cli",
+            "requires",
+            "specify",
+            "file",
+            "datasource",
+            "instance",
+            "instead",
+            "ormconfig",
+            "trying",
+            "export",
+            "async",
+            "created",
+            "datasource",
+            "fails",
+            "expected",
+            "behavior",
+            "command",
+            "ran",
+            "successfully",
+            "actual",
+            "behavior",
+            "command",
+            "failed",
+            "error",
+            "error",
+            "given",
+            "data",
+            "source",
+            "file",
+            "must",
+            "contain",
+            "export",
+            "datasource",
+            "instance",
+            "step",
+            "reproduce",
+            "datasource",
+            "defined",
+            "file",
+            "work",
+            "though"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,88 @@
+{
+  "commit_index": "60c757f",
+  "commit_url": "https://github.com/socketio/socket.io/commit/60c757f718d400e052c3160ee377bbe4973277c9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "sio-client",
+      "accept",
+      "string",
+      "undefined",
+      "init",
+      "argument",
+      "bi"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/socket.io-client/lib/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "04c8dd979ce40acaceec1f4507c1ae69325d6158"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "incorrect",
+        "type",
+        "client",
+        "initialisation"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "piet-maier",
+          "content": [
+            "description",
+            "initialising",
+            "socket.io",
+            "client",
+            "url",
+            "string",
+            "undefined",
+            "depending",
+            "environment",
+            "vue",
+            "example",
+            "documentation",
+            "produce",
+            "following",
+            "type",
+            "error",
+            "overload",
+            "match",
+            "call",
+            "possible",
+            "either",
+            "pas",
+            "string",
+            "undefined",
+            "separate",
+            "call",
+            "value",
+            "type",
+            "string",
+            "undefined",
+            "one",
+            "call",
+            "expected",
+            "behaviour",
+            "type",
+            "error",
+            "since",
+            "argument",
+            "either",
+            "type",
+            "code",
+            "work",
+            "expected"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,180 @@
+{
+  "commit_index": "531cb87",
+  "commit_url": "https://github.com/prisma/prisma/commit/531cb879ddcc8889a7320b5e55a120988d7bec3d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "error",
+      "handling",
+      "ensure",
+      "also",
+      "unknown",
+      "error",
+      "interactive",
+      "transaction"
+    ],
+    "description": [
+      "unknown",
+      "error",
+      "interactive",
+      "transaction",
+      "commits",
+      "would",
+      "properly",
+      "fail",
+      "transaction",
+      "although",
+      "rolled",
+      "back",
+      "error",
+      "could",
+      "occur",
+      "e.g",
+      "due",
+      "failing",
+      "db",
+      "trigger"
+    ],
+    "changed_files_count": 9,
+    "changed_files": [
+      "packages/client/src/runtime/core/engines/library/LibraryEngine.ts",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/_steps.ts",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/package.json",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/prisma/migrations/20250123182627_test/migration.sql",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/prisma/migrations/migration_lock.toml",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/prisma/schema.prisma",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/readme.md",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/tests/index.ts",
+      "packages/client/tests/e2e/17303-interactive-transaction-errors/tsconfig.json"
+    ],
+    "changed_files_content": [],
+    "parent": "9cf9cccda1a8957003c68979aec754abd7d54c1d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "error",
+        "handling",
+        "ensure",
+        "also",
+        "unknown",
+        "error",
+        "interactive",
+        "transaction",
+        "fail",
+        "properly"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "unknown",
+                "error",
+                "interactive",
+                "transaction",
+                "commits",
+                "would",
+                "properly",
+                "fail",
+                "transaction",
+                "although",
+                "rolled",
+                "back.such",
+                "error",
+                "could",
+                "occur",
+                "e.g",
+                "due",
+                "failing",
+                "db",
+                "trigger"
+              ],
+              "author": "FGoessler"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "prisma",
+        "interactive",
+        "transaction",
+        "ignores",
+        "db",
+        "exception",
+        "commit",
+        "trigger"
+      ],
+      "labels": [
+        "bug/2-confirmed",
+        "kind/bug",
+        "topic: postgresql",
+        "domain/client",
+        "topic: database triggers",
+        "topic: interactiveTransactions"
+      ],
+      "comments": [
+        {
+          "author": "Siegrift",
+          "content": [
+            "bug",
+            "description",
+            "created",
+            "repro",
+            "two",
+            "model",
+            "user",
+            "deposit",
+            "remember",
+            "balance",
+            "field",
+            "user",
+            "table",
+            "want",
+            "consistent",
+            "sum",
+            "deposit",
+            "using",
+            "psql",
+            "constraint",
+            "trigger",
+            "noticed",
+            "trigger",
+            "failed",
+            "prisma",
+            "silently",
+            "resolved",
+            "promise",
+            "error",
+            "log",
+            "able",
+            "find",
+            "error",
+            "inside",
+            "log",
+            "database",
+            "expected",
+            "behavior",
+            "prisma",
+            "notice",
+            "db",
+            "commit",
+            "failed",
+            "gracefully",
+            "reject",
+            "promise"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

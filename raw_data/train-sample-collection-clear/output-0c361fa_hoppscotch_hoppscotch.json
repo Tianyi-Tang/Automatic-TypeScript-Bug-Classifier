@@ -1,0 +1,99 @@
+{
+  "commit_index": "0c361fa",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/0c361faeabfb2fb38040a41b74617524f5c8cebe",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "common",
+      "oauth2",
+      "basic",
+      "header",
+      "encoding"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/hoppscotch-common/src/services/oauth/flows/clientCredentials.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9e541a8a4b2c48b207cb356d1663b727f9dbaf9d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "common",
+        "oauth2",
+        "basic",
+        "header",
+        "encoding"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "basic",
+                "auth",
+                "header",
+                "encoding",
+                "accordance",
+                "rfc",
+                "6749.using",
+                "oauth2",
+                "selectingsend",
+                "credential",
+                "basis",
+                "authusing",
+                "client",
+                "secret",
+                "special",
+                "character",
+                "result",
+                "failure",
+                "fetch",
+                "token.according",
+                "torfc",
+                "oauth",
+                "spec",
+                "client",
+                "id",
+                "secret",
+                "encoded",
+                "accordance",
+                "want",
+                "create",
+                "issue",
+                "already",
+                "solved",
+                "finished",
+                "debugging.what",
+                "changedbefore",
+                "base64",
+                "encoding",
+                "header",
+                "value",
+                "new",
+                "function",
+                "properly",
+                "encode",
+                "username",
+                "password",
+                "part",
+                "separately",
+                "encoding"
+              ],
+              "author": "jamesgeorge007"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

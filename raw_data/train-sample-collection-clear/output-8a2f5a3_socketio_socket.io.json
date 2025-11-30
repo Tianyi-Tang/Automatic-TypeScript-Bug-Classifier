@@ -1,0 +1,106 @@
+{
+  "commit_index": "8a2f5a3",
+  "commit_url": "https://github.com/socketio/socket.io/commit/8a2f5a3da0addb386e7a0f4970e1a9696b82797e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "eio-client",
+      "move",
+      "'offline",
+      "event",
+      "listener",
+      "top"
+    ],
+    "description": null,
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/engine.io-client/lib/socket.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b04fa64365729244a9c50a6b54b12e9bcc9e55d0"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "minor",
+        "event",
+        "handler",
+        "'offline",
+        "event",
+        "must",
+        "added",
+        "initial",
+        "evaluation",
+        "worker",
+        "script",
+        "service",
+        "worker"
+      ],
+      "labels": [
+        "package:engine.io-client",
+        "needs investigation"
+      ],
+      "comments": [
+        {
+          "author": "wanfahmi11",
+          "content": [
+            "describe",
+            "bug",
+            "getting",
+            "warning",
+            "including",
+            "socket.io",
+            "client",
+            "service",
+            "worker",
+            "event",
+            "handler",
+            "'offline",
+            "event",
+            "must",
+            "added",
+            "initial",
+            "evaluation",
+            "worker",
+            "script",
+            "service",
+            "worker",
+            "reproduce",
+            "socket.io",
+            "server",
+            "version",
+            "4.7.4",
+            "server",
+            "client",
+            "version",
+            "4.7.4",
+            "client",
+            "expected",
+            "behavior",
+            "probably",
+            "skip",
+            "adding",
+            "offline",
+            "event",
+            "listener",
+            "service",
+            "worker",
+            "since",
+            "'s",
+            "already",
+            "skipped",
+            "offline",
+            "n't",
+            "see",
+            "harm",
+            "skipping",
+            "service",
+            "worker"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

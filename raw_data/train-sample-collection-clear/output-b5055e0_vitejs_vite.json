@@ -1,0 +1,121 @@
+{
+  "commit_index": "b5055e0",
+  "commit_url": "https://github.com/vitejs/vite/commit/b5055e0dd4c0e084115c3dbfead5736a54807e0c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cs",
+      "respect",
+      "css.lightningcss",
+      "option",
+      "cs",
+      "minification",
+      "proceess"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/vite/src/node/plugins/css.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c713f79b5a4bd98542d8dbe4c85ba4cce9b1f358"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cs",
+        "respectcss.lightningcssoption",
+        "cs",
+        "minification",
+        "process"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionthis",
+                "setundefinedfor",
+                "types.",
+                "14872",
+                "comment",
+                "n't",
+                "needed",
+                "more"
+              ],
+              "author": "patak-dev"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "way",
+        "set",
+        "errorrecovery",
+        "true",
+        "lightningcss"
+      ],
+      "labels": [
+        "p3-minor-bug",
+        "feat: css"
+      ],
+      "comments": [
+        {
+          "author": "CyberAP",
+          "content": [
+            "describe",
+            "bug",
+            "lightningcss",
+            "fails",
+            "code",
+            "zoom",
+            "fix",
+            "provides",
+            "errorrecovery",
+            "option",
+            "vite",
+            "currently",
+            "n't",
+            "support",
+            "css.lightningcss",
+            "config",
+            "option",
+            "reproduce",
+            "run",
+            "npm",
+            "install",
+            "npm",
+            "run",
+            "build"
+          ]
+        },
+        {
+          "author": "sapphi-red",
+          "content": [
+            "css.lightningcss",
+            "respected",
+            "cs",
+            "minification",
+            "process",
+            "css.transformer",
+            "'lightningcss",
+            "set",
+            "work",
+            "setting",
+            "option",
+            "workaround"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

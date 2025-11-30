@@ -1,0 +1,117 @@
+{
+  "commit_index": "f5d4397",
+  "commit_url": "https://github.com/typeorm/typeorm/commit/f5d43975dbbf02d0e40d64d01265105d4018cf7a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "missing",
+      "await"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/migration/MigrationExecutor.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d4607a86723eef07e62e6d7321a07f3ae5ed1f90"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "missing",
+        "await"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionthere",
+                "miss",
+                "await",
+                "queryrunneralreadyreleasederror"
+              ],
+              "author": "pleerock"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "migrationexecutor",
+        "query",
+        "runner",
+        "already",
+        "released"
+      ],
+      "labels": [
+        "requires triage",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "p1k2i",
+          "content": [
+            "issue",
+            "description",
+            "migrationexecutor",
+            "query",
+            "runner",
+            "already",
+            "released",
+            "expected",
+            "behavior",
+            "getexecutedmigrations",
+            "return",
+            "array",
+            "executed",
+            "migration",
+            "indicated",
+            "datasource",
+            "actual",
+            "behavior",
+            "migrationexecutor",
+            "throwing",
+            "queryrunneralreadyreleasederror",
+            "attempt",
+            "run",
+            "getexecutedmigrations",
+            "queryrunneralreadyreleasederror",
+            "query",
+            "runner",
+            "already",
+            "released",
+            "run",
+            "query",
+            "anymore",
+            "mysqlqueryrunner.query",
+            "processticksandrejections",
+            "node",
+            "internal/process/task_queues:95:5",
+            "problem",
+            "internal",
+            "await",
+            "this.createmigrationstableifnotexist",
+            "queryrunner",
+            "queryrunner",
+            "realizing",
+            "still",
+            "used",
+            "next",
+            "operation"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

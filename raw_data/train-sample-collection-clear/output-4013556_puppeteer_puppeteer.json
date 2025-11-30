@@ -1,0 +1,74 @@
+{
+  "commit_index": "4013556",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/401355610874beac23a51dcb75739a4bb4191a2b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "webdriver",
+      "handle",
+      "error",
+      "exposed",
+      "function",
+      "args",
+      "longer"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/puppeteer-core/src/bidi/ExposedFunction.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "446a07cdc4e56f8a926f74d167cb14eca24a9602"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "webdriver",
+        "handle",
+        "error",
+        "exposed",
+        "function",
+        "args",
+        "longer",
+        "available"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "client",
+                "await",
+                "result",
+                "exposed",
+                "function",
+                "call",
+                "navigates",
+                "away",
+                "retained",
+                "handle",
+                "might",
+                "released",
+                "pr",
+                "move",
+                "handling",
+                "try/catch",
+                "block",
+                "handle",
+                "error",
+                "properly"
+              ],
+              "author": "OrKoN"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

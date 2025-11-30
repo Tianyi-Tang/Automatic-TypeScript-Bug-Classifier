@@ -1,0 +1,38 @@
+{
+  "UI Behavior Bug": {
+    "Correctness": "6 / 8"
+  },
+  "Logic Error": {
+    "Correctness": "4 / 14"
+  },
+  "Type Error": {
+    "Correctness": "4 / 4"
+  },
+  "Missing Features": {
+    "Correctness": "1 / 5"
+  },
+  "Test Fault": {
+    "Correctness": "6 / 7"
+  },
+  "Tooling / Configuration Issue": {
+    "Correctness": "21 / 30"
+  },
+  "Asynchrony / Event Handling Bug": {
+    "Correctness": "0 / 2"
+  },
+  "Missing Cases": {
+    "Correctness": "1 / 22"
+  },
+  "API Misuse": {
+    "Correctness": "1 / 13"
+  },
+  "Runtime Exception": {
+    "Correctness": "0 / 1"
+  },
+  "Performance Issue": {
+    "Correctness": "0 / 0"
+  },
+  "Exception Handling": {
+    "Correctness": "1 / 3"
+  }
+}

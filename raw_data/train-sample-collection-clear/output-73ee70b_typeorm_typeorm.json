@@ -1,0 +1,122 @@
+{
+  "commit_index": "73ee70b",
+  "commit_url": "https://github.com/typeorm/typeorm/commit/73ee70b33165af9151aadf9d26c58e78eebdfa53",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "correctly",
+      "keep",
+      "query.data",
+      "ormoption",
+      "commit",
+      "rollback",
+      "subscriber"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "src/persistence/EntityPersistExecutor.ts",
+      "test/functional/entity-subscriber/transaction-flow/entity-subscriber-transaction-flow.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e67d7041387df78c69599c1d3c880389a935ffbf"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "correctly",
+        "keep",
+        "query.data",
+        "ormoption",
+        "commit",
+        "rollback",
+        "subscriber"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "keep",
+                "query",
+                "subscriber",
+                "after"
+              ],
+              "author": "pleerock"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "queryrunner.data",
+        "provided",
+        "ormoptions",
+        "provided",
+        "transactioncommit",
+        "subscriber"
+      ],
+      "labels": [
+        "requires triage",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "nicolasroger17",
+          "content": [
+            "issue",
+            "description",
+            "within",
+            "transaction",
+            "data",
+            "object",
+            "provided",
+            "also",
+            "provided",
+            "subscriber",
+            "calling",
+            "method",
+            "like",
+            "insert",
+            "update",
+            "save",
+            "providing",
+            "ormoptions",
+            "expected",
+            "behaviour",
+            "happening",
+            "called",
+            "entity",
+            "insert",
+            "called",
+            "entity",
+            "update",
+            "called",
+            "transaction",
+            "commit",
+            "actual",
+            "behavior",
+            "called",
+            "entity",
+            "insert",
+            "called",
+            "entity",
+            "update",
+            "called",
+            "transaction",
+            "commit"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

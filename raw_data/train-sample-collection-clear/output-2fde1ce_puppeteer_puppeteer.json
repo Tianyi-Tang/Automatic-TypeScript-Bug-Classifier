@@ -1,0 +1,87 @@
+{
+  "commit_index": "2fde1ce",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/2fde1ce4e09c4b084033537baea77fdd58b0c213",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "webdriver",
+      "frameelement",
+      "return",
+      "handle",
+      "main",
+      "world"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/puppeteer-core/src/api/Frame.ts",
+      "test/src/frame.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1626553a541893324d74813c315e126c8753e4ce"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "window",
+        "prop",
+        "set",
+        "via",
+        "content",
+        "script",
+        "chrome",
+        "extension",
+        "accessible",
+        "via",
+        "frame.frameelement"
+      ],
+      "labels": [
+        "P3",
+        "confirmed",
+        "bug",
+        "bidi"
+      ],
+      "comments": [
+        {
+          "author": "zibsonzs",
+          "content": [
+            "index.iife.js",
+            "set",
+            "window.myprop",
+            "test",
+            "expectation",
+            "my_prop",
+            "exist",
+            "window",
+            "object",
+            "calling",
+            "evaluate",
+            "frameelement",
+            "want",
+            "able",
+            "use",
+            "function",
+            "attached",
+            "window",
+            "access",
+            "framelement",
+            "provided",
+            "via",
+            "frame.frameelement",
+            "reality",
+            "window.my_prop",
+            "undefined",
+            "puppeteer",
+            "configuration",
+            "file",
+            "used",
+            "response"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

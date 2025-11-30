@@ -1,0 +1,80 @@
+{
+  "commit_index": "e4d5201",
+  "commit_url": "https://github.com/vitejs/vite/commit/e4d520141bcd83ad61f16767348b4a813bf9340a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "ignore",
+      "malformed",
+      "uris",
+      "tranform",
+      "middleware"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/vite/src/node/server/middlewares/transform.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "55cfd04b10f98cde7a96814a69b9813543ea79c2"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "uri",
+        "malformed",
+        "receiving",
+        "traffic",
+        "bittorrent",
+        "client"
+      ],
+      "labels": [
+        "pending triage"
+      ],
+      "comments": [
+        {
+          "author": "itschasa",
+          "content": [
+            "describe",
+            "bug",
+            "whenever",
+            "following",
+            "path",
+            "sent",
+            "vite",
+            "app",
+            "return",
+            "trying",
+            "decode",
+            "uri",
+            "using",
+            "decodeuri",
+            "result",
+            "error",
+            "however",
+            "new",
+            "url",
+            "able",
+            "handle",
+            "fine",
+            "unfortunately",
+            "change",
+            "client",
+            "send",
+            "argument",
+            "'s",
+            "fully",
+            "aged",
+            "protocol",
+            "implemented",
+            "across",
+            "dozen",
+            "client"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

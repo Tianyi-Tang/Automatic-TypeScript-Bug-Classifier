@@ -1,0 +1,69 @@
+{
+  "commit_index": "4e5c0ad",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/4e5c0ad1c770d6bd1785325cdf5c0a63f285e5c2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remove",
+      "event",
+      "listener",
+      "abortsignal",
+      "waittask"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/puppeteer-core/src/common/WaitTask.ts",
+      "test/src/waittask.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "bcc4304582dec2a4f983054b2aa52e1ea77ebd42"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "abort",
+        "signal",
+        "waittask",
+        "cause",
+        "memory",
+        "leak"
+      ],
+      "labels": [
+        "P3",
+        "confirmed",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "Mamoru1234",
+          "content": [
+            "code",
+            "add",
+            "listener",
+            "place",
+            "clean-up",
+            "expectation",
+            "expect",
+            "wait",
+            "task",
+            "remove",
+            "event",
+            "handler",
+            "terminate",
+            "similar",
+            "timeout",
+            "reality",
+            "handler",
+            "kept",
+            "abort",
+            "signal"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

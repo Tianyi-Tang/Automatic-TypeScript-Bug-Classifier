@@ -1,0 +1,166 @@
+{
+  "commit_index": "c6bf8c0",
+  "commit_url": "https://github.com/socketio/socket.io/commit/c6bf8c0f571aad7a5917f43860c8c3d74a9b429b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "improve",
+      "compatibility",
+      "node16",
+      "module",
+      "resolution"
+    ],
+    "description": [
+      "related",
+      "microsoft/typescript",
+      "comment"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "12ca32b534e8970f1875359e49982539533653e4"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "improve",
+        "performance",
+        "parser.decodepayload"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "combine",
+                "two",
+                "substr",
+                "call",
+                "happening",
+                "decodepayload",
+                "one",
+                "call.i",
+                "ran",
+                "benchmark",
+                "change",
+                "relevant",
+                "decode",
+                "packer",
+                "payload",
+                "ops/second",
+                "bellowbefore",
+                "121934.70",
+                "124131.01after",
+                "133308.74",
+                "146079.29so",
+                "scientific",
+                "seems",
+                "speed",
+                "thing",
+                "13"
+              ],
+              "author": "rauchg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "import",
+        "package",
+        "tsconfig.json",
+        "specifies",
+        "module",
+        "nodenext"
+      ],
+      "labels": [
+        "Fix Available",
+        "Bug"
+      ],
+      "comments": [
+        {
+          "author": "andrewbranch",
+          "content": [
+            "ip",
+            "issue",
+            "type",
+            "field",
+            "types/ip",
+            "package.json",
+            "missing",
+            "file",
+            "extension",
+            "started",
+            "making",
+            "published",
+            "package",
+            "include",
+            ".d.ts",
+            "extension",
+            "quite",
+            "ago",
+            "guess",
+            "package",
+            "updated",
+            "since",
+            "esm",
+            "module",
+            "resolution",
+            "extension",
+            "required",
+            "import",
+            "path",
+            "seems",
+            "behavior",
+            "spilled",
+            "lookup",
+            "type",
+            "field",
+            "intentional",
+            "not",
+            "weswigham",
+            "either",
+            "way",
+            "may",
+            "want",
+            "consider",
+            "onetime",
+            "fixup",
+            "existing",
+            "dt",
+            "package",
+            "extension",
+            "type",
+            "field",
+            "issue",
+            "nullthrows",
+            "look",
+            "like",
+            "different",
+            "bug",
+            "even",
+            "though",
+            "using",
+            "default",
+            "import",
+            "type",
+            "getting",
+            "module",
+            "type",
+            "default",
+            "member"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

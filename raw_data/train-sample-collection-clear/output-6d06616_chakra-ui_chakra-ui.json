@@ -1,0 +1,73 @@
+{
+  "commit_index": "6d06616",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/6d06616b5fea29301a6cbe3ffad9569e7d99ca1a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "button",
+      "button",
+      "loading",
+      "state",
+      "icon"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/tame-phones-greet.md",
+      "apps/compositions/src/examples/button-with-loading-toggle.tsx",
+      "packages/react/src/components/loader/loader.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "ffc087acdf82cce955200f74a4cbfacc401b090b"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "button",
+        "layout",
+        "break",
+        "loading",
+        "state",
+        "using",
+        "icon",
+        "child"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "isBatak",
+          "content": [
+            "description",
+            "chakra",
+            "ui",
+            "enters",
+            "loading",
+            "state",
+            "contains",
+            "icon",
+            "layout",
+            "break",
+            "causing",
+            "misalignment",
+            "spacing",
+            "issue",
+            "chakra-button-loading-with-icons.mp4",
+            "solution",
+            "also",
+            "apply",
+            "display",
+            "content",
+            "span",
+            "wrap",
+            "icon",
+            "label",
+            "inside",
+            "button"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,112 @@
+{
+  "commit_index": "6b648c7",
+  "commit_url": "https://github.com/vitejs/vite/commit/6b648c73ae33a57f648af87204a325335afffca8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "hmr",
+      "throw",
+      "non-standard",
+      "error",
+      "info",
+      "cause",
+      "logical",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/vite/src/shared/hmr.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "2c4a0920ec7730e61508745fb8e4d49fc2945f00"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "fetchupdate",
+        "assumes",
+        "import",
+        "error",
+        "instanceof",
+        "error"
+      ],
+      "labels": [
+        "p3-minor-bug"
+      ],
+      "comments": [
+        {
+          "author": "jiftoo",
+          "content": [
+            "describe",
+            "bug",
+            "title",
+            "problematic",
+            "come",
+            "debugging",
+            "top",
+            "level",
+            "exception",
+            "one",
+            "would",
+            "see",
+            "typeerror",
+            "err.message",
+            "undefined",
+            "instead",
+            "actual",
+            "error",
+            "module",
+            "throw",
+            "object",
+            "n't",
+            "message",
+            "string",
+            "property",
+            "defined",
+            "step",
+            "reproduce",
+            "launch",
+            "app",
+            "wait",
+            "'ok",
+            "show",
+            "uncomment",
+            "throw",
+            "'error",
+            "app.jsx",
+            "check",
+            "console",
+            "current",
+            "uncaught",
+            "promise",
+            "typeerror",
+            "err.message",
+            "undefined",
+            "warnfailedupdate",
+            "client:163",
+            "...",
+            "expected",
+            "vite",
+            "error",
+            "vite",
+            "failed",
+            "reload",
+            "/src/app.jsx",
+            "could",
+            "due",
+            "syntax",
+            "error",
+            "importing",
+            "non-existent",
+            "module",
+            "see",
+            "error"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

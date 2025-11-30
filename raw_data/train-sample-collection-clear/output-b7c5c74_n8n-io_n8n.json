@@ -1,0 +1,183 @@
+{
+  "commit_index": "b7c5c74",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/b7c5c7406f6f978bbd84737de34114e9492ae5f6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "ensure",
+      "failed",
+      "execution",
+      "saved",
+      "queue",
+      "mode"
+    ],
+    "description": [
+      "pr",
+      "add",
+      "status",
+      "run",
+      "data",
+      "determinefinalexecutionstatus",
+      "resolve",
+      "correctly",
+      "execution",
+      "failure",
+      "remove",
+      "cleanup",
+      "duplicated",
+      "worker",
+      "hook"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli/src/WorkflowRunner.ts",
+      "packages/cli/src/executionLifecycleHooks/shared/sharedHookFunctions.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ad04986ce7e8958c9564716a19f87aba50861b52"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "ensure",
+        "failed",
+        "execution",
+        "saved",
+        "queue",
+        "mode"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "addsstatusto",
+                "run",
+                "data",
+                "thatdeterminefinalexecutionstatusresolves",
+                "correctly",
+                "execution",
+                "failure",
+                "remove",
+                "cleanup",
+                "duplicated",
+                "worker",
+                "hook.followup",
+                "fix",
+                "failed",
+                "execution",
+                "getting",
+                "saved",
+                "queue"
+              ],
+              "author": "ivov"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "failed",
+        "execution",
+        "getting",
+        "saved",
+        "queue",
+        "mode"
+      ],
+      "labels": [
+        "Released",
+        "in linear"
+      ],
+      "comments": [
+        {
+          "author": "phizab",
+          "content": [
+            "describe",
+            "bug",
+            "saving",
+            "failed",
+            "execution",
+            "work",
+            "using",
+            "queue",
+            "mode",
+            "saving",
+            "successful",
+            "execution",
+            "disabled",
+            "apply",
+            "sub",
+            "workflow",
+            "getting",
+            "saved",
+            "reproduce",
+            "step",
+            "reproduce",
+            "behavior",
+            "create",
+            "workflow",
+            "schedule",
+            "trigger",
+            "e.g",
+            "10",
+            "second",
+            "interval",
+            "stop",
+            "error",
+            "node",
+            "message",
+            "set",
+            "save",
+            "failed",
+            "production",
+            "execution",
+            "save",
+            "save",
+            "successful",
+            "production",
+            "execution",
+            "save",
+            "activate",
+            "workflow",
+            "expected",
+            "behavior",
+            "using",
+            "workflow",
+            "execution",
+            "always",
+            "fail",
+            "stop",
+            "error",
+            "node",
+            "listed",
+            "execution",
+            "list",
+            "instead",
+            "getting",
+            "deleted",
+            "changing",
+            "save",
+            "successful",
+            "production",
+            "execution",
+            "save",
+            "appear",
+            "execution",
+            "list"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,61 @@
+{
+  "commit_index": "8b64c2c",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/8b64c2cd01f7df44c1b667c4f1f2b676e0fab0a8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "getdefaultnavigationtimeout",
+      "page"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "docs/api/puppeteer.page.getdefaultnavigationtimeout.md",
+      "docs/api/puppeteer.page.md",
+      "packages/puppeteer-core/src/api/Page.ts",
+      "packages/puppeteer-core/src/bidi/Page.ts",
+      "packages/puppeteer-core/src/cdp/Page.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a1a4ab14adc19c29ab641d63a2c8fc94435f1ea7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "getdefaultnavigationtimeout",
+        "page"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "kind",
+                "change",
+                "introduce",
+                "fixed",
+                "accessibility",
+                "getdefaultnavigationtimeoutdid",
+                "add",
+                "test",
+                "change",
+                "relevant",
+                "update",
+                "documentation"
+              ],
+              "author": "OrKoN"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

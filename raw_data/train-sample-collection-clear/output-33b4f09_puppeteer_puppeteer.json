@@ -1,0 +1,93 @@
+{
+  "commit_index": "33b4f09",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/33b4f09021faea6a3c639ff7fa7f96099a02ffd4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "webdriver",
+      "report",
+      "frame",
+      "url",
+      "console",
+      "message",
+      "location"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/puppeteer-core/src/bidi/Frame.ts",
+      "packages/puppeteer-core/src/common/ConsoleMessage.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d40658fca36df7e7d6da4ce7424d98de60c48707"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "location",
+        "stack",
+        "trace",
+        "firefox",
+        "console",
+        "message"
+      ],
+      "labels": [
+        "bidi",
+        "confirmed",
+        "bug",
+        "P3",
+        "firefox"
+      ],
+      "comments": [
+        {
+          "author": "OrKoN",
+          "content": [
+            "webdriver",
+            "bidi",
+            "protocol",
+            "used",
+            "firefox",
+            "default",
+            "stack",
+            "trace",
+            "captured",
+            "assert",
+            "error",
+            "trace",
+            "warn",
+            "message",
+            "chrome",
+            "compliant",
+            "webdriver",
+            "bidi",
+            "spec",
+            "compliant",
+            "existing",
+            "cdp",
+            "behavior",
+            "superllama88888",
+            "use",
+            "case",
+            "using",
+            "stacktraces",
+            "console.log",
+            "would",
+            "help",
+            "u",
+            "understand",
+            "webdriver",
+            "bidi",
+            "standard",
+            "need",
+            "extended",
+            "capture",
+            "stacktraces"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

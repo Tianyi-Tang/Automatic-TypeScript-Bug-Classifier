@@ -1,0 +1,152 @@
+{
+  "summary": {
+    "total_tasks": 780,
+    "tasks_with_predictions": 84
+  },
+  "categories": {
+    "Missing Cases": {
+      "count": 7,
+      "indices": [
+        "a65a047",
+        "0c361fa",
+        "a9e6cd1",
+        "8adcfbf",
+        "aa5b1c0",
+        "f81387d",
+        "566cc3e"
+      ]
+    },
+    "Tooling / Configuration Issue": {
+      "count": 7,
+      "indices": [
+        "6610621",
+        "bd56cc6",
+        "1a47191",
+        "3ce311a",
+        "a803b4d",
+        "605de78",
+        "50a40f3"
+      ]
+    },
+    "API Misuse": {
+      "count": 7,
+      "indices": [
+        "052799e",
+        "ba165bc",
+        "5c5631f",
+        "d4db93c",
+        "870fa9e",
+        "e94c609",
+        "09c6f0a"
+      ]
+    },
+    "Asynchrony / Event Handling Bug": {
+      "count": 7,
+      "indices": [
+        "e347a3c",
+        "7177e3a",
+        "b9842e3",
+        "5c1240d",
+        "2fd3f99",
+        "a915f3d",
+        "972da58"
+      ]
+    },
+    "Performance Issue": {
+      "count": 7,
+      "indices": [
+        "3d85d93",
+        "c93aa60",
+        "5bba36c",
+        "9b70861",
+        "00cbf22",
+        "c6bf8c0",
+        "31f0b55"
+      ]
+    },
+    "Exception Handling": {
+      "count": 7,
+      "indices": [
+        "ff1c861",
+        "86a690b",
+        "cf6aa1f",
+        "531cb87",
+        "62cce2e",
+        "39d4220",
+        "c597023"
+      ]
+    },
+    "Type Error": {
+      "count": 7,
+      "indices": [
+        "300280d",
+        "ebe94f9",
+        "8743ad0",
+        "4193fe2",
+        "ca22d38",
+        "8caa377",
+        "c2f650b"
+      ]
+    },
+    "Runtime Exception": {
+      "count": 7,
+      "indices": [
+        "d5095fe",
+        "8b22162",
+        "ba497ee",
+        "4865f2e",
+        "edec141",
+        "5428a73",
+        "d81832c"
+      ]
+    },
+    "UI Behavior Bug": {
+      "count": 7,
+      "indices": [
+        "ffc087a",
+        "34147c3",
+        "98359dd",
+        "b3cd62d",
+        "8bc3310",
+        "80f4b9d",
+        "e2ff509"
+      ]
+    },
+    "Missing Features": {
+      "count": 7,
+      "indices": [
+        "8ff26ad",
+        "b5055e0",
+        "15f90e0",
+        "1408baf",
+        "d1b07cc",
+        "8b64c2c",
+        "275e5cf"
+      ]
+    },
+    "Logic Error": {
+      "count": 7,
+      "indices": [
+        "5e0629c",
+        "2fde1ce",
+        "c919c68",
+        "81b6eda",
+        "abeb408",
+        "557b146",
+        "8a2f5a3"
+      ]
+    },
+    "Test Fault": {
+      "count": 7,
+      "indices": [
+        "a62ed27",
+        "ba32fa8",
+        "7fc79d7",
+        "5c5c06a",
+        "358d934",
+        "55e953e",
+        "ef5b926"
+      ]
+    }
+  }
+}

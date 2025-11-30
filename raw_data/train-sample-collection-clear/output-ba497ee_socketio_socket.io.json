@@ -1,0 +1,114 @@
+{
+  "commit_index": "ba497ee",
+  "commit_url": "https://github.com/socketio/socket.io/commit/ba497ee3eb52c4abf1464380d015d8c788714364",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "uws",
+      "prevent",
+      "server",
+      "crashing",
+      "upgrade"
+    ],
+    "description": [
+      "fix",
+      "rare",
+      "case",
+      "engine.io",
+      "connection",
+      "upgraded",
+      "websocket",
+      "socket.io",
+      "socket",
+      "disconnected",
+      "would",
+      "result",
+      "following",
+      "exception",
+      "typeerror",
+      "read",
+      "property",
+      "undefined",
+      "reading",
+      "'foreach",
+      "subscribe"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "lib/uws.ts",
+      "test/uws.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "28038715cbe67e89431767d9b5ac1f873c633cca"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "room",
+        "client",
+        "upgrade",
+        "using",
+        "uwebsockets.js"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "stevestevensonneds",
+          "content": [
+            "describe",
+            "bug",
+            "'re",
+            "sometimes",
+            "seeing",
+            "rare",
+            "upgrade",
+            "error",
+            "using",
+            "uwebsockets.js",
+            "uws",
+            "typeerror",
+            "read",
+            "property",
+            "undefined",
+            "reading",
+            "'foreach",
+            "subscribe",
+            "socket.",
+            "anonymous",
+            "socket.emit",
+            "node",
+            "events:402:35",
+            "websocket.onpacket",
+            "node",
+            "events:390:28",
+            "websocket.onpacket",
+            "stack",
+            "trace",
+            "mapped",
+            "source",
+            "seems",
+            "client",
+            "upgrade",
+            "room",
+            "expected",
+            "behavior",
+            "upgrade",
+            "connection",
+            "without",
+            "causing",
+            "error",
+            "trying",
+            "subscribe",
+            "omitted",
+            "room",
+            "argument"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

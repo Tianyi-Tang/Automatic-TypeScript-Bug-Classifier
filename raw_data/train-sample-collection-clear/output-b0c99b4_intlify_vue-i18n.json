@@ -1,0 +1,106 @@
+{
+  "commit_index": "b0c99b4",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/b0c99b417af61edbc8a10d08e34a97dc4cf1f65d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "message-compiler",
+      "linked",
+      "modifier",
+      "break",
+      "parenthesis"
+    ],
+    "description": [
+      "fix",
+      "message-compiler",
+      "modifier",
+      "break",
+      "parenthesis",
+      "update",
+      "update",
+      "lock",
+      "file",
+      "drop",
+      "rollup",
+      "cjs",
+      "hack",
+      "update",
+      "deps"
+    ],
+    "changed_files_count": 6,
+    "changed_files": [
+      "package.json",
+      "packages/message-compiler/src/tokenizer.ts",
+      "packages/message-compiler/test/tokenizer/linked.test.ts",
+      "pnpm-lock.yaml",
+      "rollup.config.mjs",
+      "spec/syntax.ebnf"
+    ],
+    "changed_files_content": [],
+    "parent": "daf96033e620e5178a581005f8cf981544707a99"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "message-compiler",
+        "linked",
+        "modifier",
+        "break",
+        "parenthesis"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "bug",
+                "fix"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "modifier",
+        "break",
+        "parenthesis",
+        "work",
+        "interpolation",
+        "v8"
+      ],
+      "labels": [
+        "upstream",
+        "v8"
+      ],
+      "comments": [
+        {
+          "author": "jd1378",
+          "content": [
+            "describe",
+            "bug",
+            "use",
+            "testnum",
+            "param",
+            "something",
+            "run",
+            "following",
+            "translation",
+            "documented",
+            "happens",
+            "see"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}
