@@ -16,7 +16,7 @@ pip install requests nltk beautifulsoup4 label-studio-sdk setfit pandas
 ## Project Structure
 ```bash
 TSBugsArtifact/
-├── raw_data                           # All raw data we collect, these sample used as training, verification and prediction set 
+├── raw_data                           # All raw data we collect, these sample used as training (unclear & clearing version), verification and prediction set 
 ├── Data_Collection                    # Collect bug-fix relative commit and extract the commit URLs from given repository
 ├── Model_Train_Predict_Setfit         # Training model on label data and use it to predict labels for untrain commit
 ├── Verification                       # Produce verification report for model predicted label result        
