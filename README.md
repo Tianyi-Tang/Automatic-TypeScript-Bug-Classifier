@@ -5,7 +5,7 @@
 2. [Project Structure](#project-structure)
 3. [Key Json files and configuration](#key-json-files-and-configuration)
 4. [Key Scripts Usage ](#key-scripts-usage )
-5. 
+5. [Prediction Result](#prediction-result )
 
 
 ## Dependecies Install 
@@ -16,11 +16,11 @@ pip install requests nltk beautifulsoup4 label-studio-sdk setfit pandas
 ## Project Structure
 ```bash
 TSBugsArtifact/
-├── raw_data                           # All raw data we collect, include the clearing version data
+├── raw_data                           # All raw data we collect, these sample used as training, verification and prediction set 
 ├── Data_Collection                    # Collect bug-fix relative commit and extract the commit URLs from given repository
 ├── Model_Train_Predict_Setfit         # Training model on label data and use it to predict labels for untrain commit
 ├── Verification                       # Produce verification report for model predicted label result        
-└── Control_Experiment_Predict_Result  # Collect result of control experiment
+└── Control_Experiment_Predict_Result  # Collect prediction result and accuacy under each controlled experiement 
 
 ```
 
@@ -165,3 +165,49 @@ python label_studio_extractor.py <YOUR_LabelStudio_Access_Token> <PROJECT_ID>
 ```bash
 python compare_verification_predict.py 
 ```
+
+## Prediction Result & Accuracy 
+
+### internal structure
+```bash
+Control_Experiment_Predict_Result/
+├── Default                   # Prediction result and accuracy with defualt seting 
+├── RQ1_Clear_trainingSet     # Prediction result and accuracy by remove less relevant information in training set (RQ1)
+├── RQ2_TextClassification    # Prediction result and accuracy by switch the classified strategy (RQ2)
+├── RQ3_Hyperparameter        # Prediction result and accuracy by adjust the hyperparameter target (RQ3)        
+└── RQ4_TrainingSet_size      # Prediction result and accuracy by changeing the the training size (RQ4)
+    ├── 108_training_set         # 9 samples per each category 
+    ├── 84_training_set          # 7 samples per each category
+    ├── 60_training_set          # 5 samples per each category
+    └── 36_training_set          # 3 sample3 per each category
+```
+
+### Files in Each Folder
+
+**Name:** `correct_predictions.xlsx` <br>
+**Description:** Stores the samples that are correctly predicted by the fine-tuned model
+
+**Name:** `false_predictions.xlsx` <br>
+**Description:** Stores the samples that are incorrectly predicted by the fine-tuned model, include manually label and model prediction  
+
+**Name:** `Correctness_pre-category.json` <br>
+**Description:** Store overall prediction accuracy for each bug category
+
+### Specific files in each folder
+
+**Json Files Path**:
+```bash
+<realtive_path>/Automatic-TypeScript-Bug-Classifier/Control_Experiment_Predict_Result/Default
+```
+
+**Name:** `training_set_data_org.json` <br>
+**Description:** Manually label of training set samples; include 137 samples
+
+**Json Files Path**:
+```bash
+<realtive_path>/Automatic-TypeScript-Bug-Classifier/Control_Experiment_Predict_Result/RQ4_TrainingSet_size/*_training_set
+```
+
+**Name:** `training_set_data_per*.json` <br>
+**Description:** Manually label of training set sample and each bug cateogry will have 3, 5, 7, 9 training samples, depending on the prefix number in the JSON file name.
+
